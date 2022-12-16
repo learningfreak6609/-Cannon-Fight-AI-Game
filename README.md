@@ -1,1 +1,1 @@
-# -Cannon-Fight-AI-Game
+# Cannon-Fight-AI-Game
